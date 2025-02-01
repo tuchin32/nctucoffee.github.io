@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="original author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.88.1">
+    <title>NCTU Coffee Club</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/carousel/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Custom styles for this template -->
+    <link href="carousel.css" rel="stylesheet">
+
+    <!-- My CSS: util.css -->
+    <link href="./util.css" rel="stylesheet">
+  </head>
+  
+  <body>
+    <!-- ================================ Header ================================ -->
+    <header>
+      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-brown">
+        <div class="container-fluid">
+
+          <a class="navbar-brand" href="#">
+            <img src="./images/icon.png" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
+            交大咖啡社
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav me-auto mb-2 mb-md-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">首頁</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./equpiment.html">社團器材</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./alumni/alumni_12.html">歷屆幹部</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled">Disabled</a>
+              </li>
+            </ul>
+            <!-- <form class="d-flex">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-dark" type="submit">Search</button>
+            </form> -->
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <!-- ================================ Carousel ================================ -->
+      <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+
+          <!-- First image -->
+          <div class="carousel-item active">
+            <img src="./images/banner_home.jpg" class="background-cover" alt="banner at home page">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1 class="display-3"><strong>交大咖啡社</strong></h1>
+                <hr style="width: 100%; border: 2px solid white;">
+                <p><strong>NCTU COFFEE CLUB</strong></p>
+                <p>since 2013</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Second image -->
+          <div class="carousel-item">
+            <img src="./images/banner_equipment.jpg" class="background-cover" alt="banner at equipment page">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1 class="display-5" style="padding-bottom: 20px;"><strong>社團器材</strong></h1>
+                <p style="padding-bottom: 20px;">簡述各個器材之現況與清潔方式</p>
+                <p><a class="btn btn-lg btn-secondary" href="./equpiment.html">查看更多</a></p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Third image -->
+          <div class="carousel-item">
+            <img src="./images/banner_alumni.jpg" class="background-cover" alt="banner at alumni page">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1 class="display-5" style="padding-bottom: 20px;"><strong>歷屆幹部</strong></h1>
+                <p style="padding-bottom: 20px;">我們在時光的河流上漂流，偶爾把我們的日子刻在舢舨上</p>
+                <p><a class="btn btn-lg btn-secondary" href="./alumni/alumni_12.html">查看更多</a></p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+
+
+      <!-- ================================ Introduction ================================ -->
+      <div class="container my-5">
+        <h3 class="text-center text-brown" style="padding-top: 20px;">感官百態</h3>
+        <p class="text-center" style="padding-top: 20px; padding-bottom: 50px;">
+            本社成立宗旨為促進校內學生對咖啡的廣泛討論與交流<br>
+            增加人文素養，陶冶藝術氣息<br>
+            並藉由社團課程的內容，推廣咖啡文化並開拓視野<br>
+        </p>
+      </div>
+
+      <!-- ================================ Marketing messaging and featurettes ================================ -->
+      <!-- Wrap the rest of the page in another container to center all the content. -->
+      <div class="container marketing">
+
+        <!-- Three principle columns of text below the carousel -->
+        <div class="row">
+          <div class="col-lg-4">
+            <img src="./images/feature_1.jpg" class="principle-img" width="320" height="320">
+            <h4 class="text-brown" style="padding-top: 20px;">核心價值</h4>
+            <p>推廣咖啡文化，帶領社員認識<br>
+                及精進不同沖煮方式</p>
+          </div>
+
+          <div class="col-lg-4">
+            <img src="./images/feature_2.jpg" class="principle-img" width="320" height="320">
+            <h4 class="text-brown" style="padding-top: 20px;">社團目標</h4>
+            <p>使對咖啡有興趣的人們<br>
+                有管道接觸咖啡更深的內涵</p>
+          </div>
+
+          <div class="col-lg-4">
+            <img src="./images/feature_3.jpg" class="principle-img" width="320" height="320">
+            <h4 class="text-brown" style="padding-top: 20px;">迷思破解</h4>
+            <p>破解一般大眾對於咖啡的<br>
+                各種迷思和誤解</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- More information -->
+      <div class="container my-5">
+        <div class="p-5 text-center rounded-3 bg-brown-light">
+          <h4 class="text-body-emphasis" style="padding-bottom: 20px;">瞭解更多</h4>
+          <p class="col-lg-8 mx-auto text-muted" style="padding-bottom: 20px;">
+            我們將定期更新社團活動、器材使用方式、咖啡知識等等<br>
+            於社團Facebook、Instagram<br>
+            歡迎大家關注！
+          </p>
+
+          <!-- Social media links -->
+          <div class="d-inline-flex text-center gap-4 mb-2 mx-1">
+            <a class="d-inline-flex align-items-center btn btn-outline-dark btn-sm px-4 rounded-pill" role="button" href="https://www.facebook.com/NCTUcoffee/"> 
+              <svg class="bi" width="24" height="24"><use xlink:href="#facebook"/></svg>
+              &emsp;Facebook
+            </a>
+          </div>
+          <div class="d-inline-flex text-center gap-4 mb-2 mx-1">
+            <a class="d-inline-flex align-items-center btn btn-outline-dark btn-sm px-4 rounded-pill" role="button" href="https://www.instagram.com/nctu_coffee">
+              <svg class="bi" width="24" height="24"><use xlink:href="#instagram"/></svg>
+              &emsp;Instagram
+            </a>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ================================ SVG files ================================ -->
+      <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+        <symbol id="facebook" viewBox="0 0 24 24">
+          <path d="M24,12.073c0,5.989-4.394,10.954-10.13,11.855v-8.363h2.789l0.531-3.46H13.87V9.86c0-0.947,0.464-1.869,1.95-1.869h1.509   V5.045c0,0-1.37-0.234-2.679-0.234c-2.734,0-4.52,1.657-4.52,4.656v2.637H7.091v3.46h3.039v8.363C4.395,23.025,0,18.061,0,12.073   c0-6.627,5.373-12,12-12S24,5.445,24,12.073z"/>
+        </symbol>
+        <symbol id="instagram" viewBox="0 0 24 24">
+          <path d="M12,2.162c3.204,0,3.584,0.012,4.849,0.07c1.308,0.06,2.655,0.358,3.608,1.311c0.962,0.962,1.251,2.296,1.311,3.608   c0.058,1.265,0.07,1.645,0.07,4.849c0,3.204-0.012,3.584-0.07,4.849c-0.059,1.301-0.364,2.661-1.311,3.608   c-0.962,0.962-2.295,1.251-3.608,1.311c-1.265,0.058-1.645,0.07-4.849,0.07s-3.584-0.012-4.849-0.07   c-1.291-0.059-2.669-0.371-3.608-1.311c-0.957-0.957-1.251-2.304-1.311-3.608c-0.058-1.265-0.07-1.645-0.07-4.849   c0-3.204,0.012-3.584,0.07-4.849c0.059-1.296,0.367-2.664,1.311-3.608c0.96-0.96,2.299-1.251,3.608-1.311   C8.416,2.174,8.796,2.162,12,2.162 M12,0C8.741,0,8.332,0.014,7.052,0.072C5.197,0.157,3.355,0.673,2.014,2.014   C0.668,3.36,0.157,5.198,0.072,7.052C0.014,8.332,0,8.741,0,12c0,3.259,0.014,3.668,0.072,4.948c0.085,1.853,0.603,3.7,1.942,5.038   c1.345,1.345,3.186,1.857,5.038,1.942C8.332,23.986,8.741,24,12,24c3.259,0,3.668-0.014,4.948-0.072   c1.854-0.085,3.698-0.602,5.038-1.942c1.347-1.347,1.857-3.184,1.942-5.038C23.986,15.668,24,15.259,24,12   c0-3.259-0.014-3.668-0.072-4.948c-0.085-1.855-0.602-3.698-1.942-5.038c-1.343-1.343-3.189-1.858-5.038-1.942   C15.668,0.014,15.259,0,12,0z"/>
+          <path d="M12,5.838c-3.403,0-6.162,2.759-6.162,6.162c0,3.403,2.759,6.162,6.162,6.162s6.162-2.759,6.162-6.162   C18.162,8.597,15.403,5.838,12,5.838z M12,16c-2.209,0-4-1.791-4-4s1.791-4,4-4s4,1.791,4,4S14.209,16,12,16z"/>
+          <circle cx="18.406" cy="5.594" r="1.44"/>
+        </symbol>
+      </svg>
+
+
+      <!-- ================================ FOOTER ================================ -->
+      <footer class="container", style="text-align: center;">
+          <hr>
+          <p>
+          &copy; 交大咖啡社 &middot; 活動中心427<br>
+          <a href="mailto:nctucoffeeclub@gmail.com", style="color: #8d6449;">nctucoffeeclub@gmail.com</a>
+        </p>
+      </footer>
+    </main>
+
+
+    <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
+
+      
+  </body>
+</html>

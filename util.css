@@ -1,0 +1,126 @@
+/* ================================ Common usage ================================ */
+.bg-brown {
+    background-color: #8d6449;
+}
+
+.bg-brown-light {
+    background-color: #f3efec;;
+}
+
+.text-brown {
+    color: #8d6449;
+}
+
+/* ================================ Home Page ================================ */
+
+.background-cover {
+    background-position: center center;
+    object-fit: cover;
+    filter: blur(3px);
+}
+
+.principle-img {
+    background-position: center center;
+    object-fit: cover;
+}
+
+
+/* ================================ Equipment ================================ */
+.item-title {
+    color: #8d6449;
+    margin-bottom: 20px;
+}
+
+.li-margin {
+    margin-bottom: 8px;
+}
+
+.bg-img-equipment {
+    /* The image used */
+    background-image: url("./images/banner_equipment.jpg");
+
+    min-height: 380px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    /* filter: blur(3px); */
+
+    /* Needed to position the navbar */
+    position: relative;
+}
+
+
+/* ================================ Alumni ================================ */
+.ordinal-num {
+    color: #8d6449;
+    text-align: center;
+    font-size: 5rem;
+}
+
+.ordinal-rule {
+    color: #8d6449;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.bg-img-alumni {
+    /* The image used */
+    background-image: url("./images/banner_alumni.jpg");
+
+    min-height: 380px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    /* filter: blur(3px); */
+
+    /* Needed to position the navbar */
+    position: relative;
+}
+
+/* ================================ History ================================ */
+.bd-null {
+    width: 25px;
+    height: 25px;
+    color: white;
+}
+
+.row-label {
+    width: 25px;
+    height: 25px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-label {
+    width: 25px;
+    height: 25px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.heatmap-button {
+    width: 25px;
+    height: 25px;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+  
+.heatmap-n { background-color: #ffffff; } /* White */
+.heatmap-0 { background-color: #f0f8ff; } /* Light blue */
+.heatmap-1 { background-color: #87cefa; }
+.heatmap-2 { background-color: #4682b4; }
+.heatmap-3 { background-color: #1e90ff; }
+.heatmap-4 { background-color: #00008b; } /* Deep blue */
