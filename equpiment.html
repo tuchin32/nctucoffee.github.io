@@ -268,16 +268,17 @@
       </div>
         
 			<!-- ================================ FOOTER ================================ -->
-      <footer class="container", style="text-align: center;">   
-        <hr>
-        <p>
-          &copy; 交大咖啡社 &middot; 活動中心427<br>
-          <a href="mailto:nctucoffeeclub@gmail.com", style="color: #8d6449;">nctucoffeeclub@gmail.com</a>
-        </p>
-      </footer>
-      
-		</main>
+      <footer id="footer" class="container text-center"></footer>
+      <div><br><br></div>
+    </main>
 
+    <!-- ================================ External JavaScript ================================ -->
+    <script>
+      // Load external footer
+      fetch("./footer.html")
+        .then(response => response.text())
+        .then(data => document.getElementById("footer").innerHTML = data);
+    </script>
 
 		<script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
 
