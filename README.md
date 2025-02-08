@@ -14,6 +14,6 @@ This website is built using components and techniques inspired by:
 The following photos used in this project are credited to their respective photographers on [Unsplash](https://unsplash.com):
 - [Coffee and succulent plants](https://unsplash.com/photos/coffee-and-succulent-plants-I_394sxx0ec) by [Nathan Dumlao](https://unsplash.com/@nate_dumlao)
 - [Cup of coffee near MacBook Pro](https://unsplash.com/photos/cup-of-coffee-near-macbook-pro-DJ7bWa-Gwks) by [Ian Dooley](https://unsplash.com/@sadswim)
-- [Three person holding beverage cups](https://unsplash.com/photos/three-person-holding-beverage-cups-6VhPY27jdps) by Nathan Dumlaoå
+- [Three person holding beverage cups](https://unsplash.com/photos/three-person-holding-beverage-cups-6VhPY27jdps) by Nathan Dumlao
 
 Some additional photos are sourced from [Pinterest](https://www.pinterest.com) and other locations, but their original sources could not be identified.
