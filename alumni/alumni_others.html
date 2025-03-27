@@ -70,53 +70,8 @@
       </div>
 
       <!-- ================================ Nav ================================ -->
-      <div class="container px-4 py-5">
-
-        <ul class="nav nav-pills">
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_12.html">12</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_11.html">11</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_10.html">10</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_09.html">09</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_08.html">08</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_07.html">07</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_06.html">06</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_05.html">05</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_04.html">04</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_03.html">03</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_02.html">02</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_01.html">01</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-secondary" href="./alumni_00.html">00</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" style="background-color: #8d6449;" href="#">!!</a>
-          </li>
-        </ul>
-        <hr>
+      <div id="alumni-nav" class="container px-4 py-5">
+        <!-- Load navigation using external JS file -->
       </div>
 
       
@@ -133,75 +88,8 @@
           </div>
     
           <div class="col-lg-8">
-            <div class="row row-cols-2 row-cols-sm-2 row-cols-md-2 row-cols-lg-4 g-4">
-              <div class="col d-flex flex-column gap-2">
-                <div class="feature-icon-small d-inline-flex text-bg-primary bg-gradient fs-4 rounded-3">
-                  <svg class="bi" width="1.3em" height="1.3em">
-                    <use xlink:href="#user" />
-                  </svg>
-                </div>
-                <h4 class="fw-semibold mb-1 text-body-emphasis">社員</h4>
-                <h6 class="mb-0">林宗諺</h6>
-                <p class="mb-0">
-                  <span class="badge bg-secondary">110</span>
-                  <span class="badge bg-primary">應化</span>
-                </p>
-                <p>
-                  <span class="badge bg-success">活躍於 7-9th</span>
-                </p>
-              </div>
-
-              <div class="col d-flex flex-column gap-2">
-                <div class="feature-icon-small d-inline-flex text-bg-primary bg-gradient fs-4 rounded-3">
-                  <svg class="bi" width="1.3em" height="1.3em">
-                    <use xlink:href="#user" />
-                  </svg>
-                </div>
-                <h4 class="fw-semibold mb-1 text-body-emphasis">社員</h4>
-                <h6 class="mb-0">汪佩盈</h6>
-                <p class="mb-0">
-                  <span class="badge bg-secondary">109</span>
-                  <span class="badge bg-primary">應數</span>
-                </p>
-                <p>
-                  <span class="badge bg-success">活躍於 6-8th</span>
-                </p>
-              </div>
-
-              <div class="col d-flex flex-column gap-2">
-                <div class="feature-icon-small d-inline-flex text-bg-primary bg-gradient fs-4 rounded-3">
-                  <svg class="bi" width="1.3em" height="1.3em">
-                    <use xlink:href="#user" />
-                  </svg>
-                </div>
-                <h4 class="fw-semibold mb-1 text-body-emphasis">鋼琴社社員</h4>
-                <h6 class="mb-0">林昆顥</h6>
-                <p class="mb-0">
-                  <span class="badge bg-secondary">108</span>
-                  <span class="badge bg-primary">土木</span>
-                </p>
-                <p>
-                  <span class="badge bg-success">活躍於 ?-8th</span>
-                </p>
-              </div>
-
-              <div class="col d-flex flex-column gap-2">
-                <div class="feature-icon-small d-inline-flex text-bg-primary bg-gradient fs-4 rounded-3">
-                  <svg class="bi" width="1.3em" height="1.3em">
-                    <use xlink:href="#user" />
-                  </svg>
-                </div>
-                <h4 class="fw-semibold mb-1 text-body-emphasis">烘豆講解</h4>
-                <h6 class="mb-0">陳煜珹</h6>
-                <p class="mb-0">
-                  <!-- <span class="badge bg-secondary">110</span> -->
-                  <span class="badge bg-primary">聲音學程</span>
-                </p>
-                <p>
-                  <span class="badge bg-success">活躍於 2-9th</span>
-                </p>
-              </div>
-
+            <div id="membercards" class="row row-cols-2 row-cols-sm-2 row-cols-md-2 row-cols-lg-4 g-4">
+              <!-- Load member info using external JS file -->
             </div>
           </div>
         </div>
@@ -231,7 +119,11 @@
         .then(data => document.body.insertAdjacentHTML("afterbegin", data));
     </script>
 
+    <!-- Load alumni navigation -->
+    <script src="./navigation.js"></script>
 
+    <!-- Load members' info -->
+    <script src="./members.js"></script>
 
 		<script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 

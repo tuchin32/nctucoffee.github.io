@@ -1,0 +1,723 @@
+{
+  "alumni_others": [
+    {
+      "svgSymbol": "#user",
+      "title": "社員",
+      "name": "林宗諺",
+      "year": "110",
+      "department": "應化",
+      "general": "活躍於 7-9th"
+    },
+    {
+      "svgSymbol": "#user",
+      "title": "社員",
+      "name": "汪佩盈",
+      "year": "109",
+      "department": "應數",
+      "general": "活躍於 6-8th"
+    },
+    {
+      "svgSymbol": "#user",
+      "title": "鋼琴社社員",
+      "name": "林昆顥",
+      "year": "108",
+      "department": "土木",
+      "general": "活躍於 ?-8th"
+    },
+    {
+      "svgSymbol": "#user",
+      "title": "烘豆講解",
+      "name": "陳煜珹",
+      "year": "",
+      "department": "聲音學程",
+      "general": "活躍於 2-9th"
+    }
+  ],
+  "alumni_00": [
+    {
+      "svgSymbol": "#boss",
+      "title": "元老",
+      "name": "陳百齡",
+      "year": "",
+      "department": "族群碩"
+    }
+  ],
+  "alumni_01": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "楊智翔",
+      "year": "104",
+      "department": "管科"
+    },
+    {
+      "svgSymbol": "#employee",
+      "title": "副社",
+      "name": "林文彥", 
+      "year": "104", 
+      "department": "電工"
+    },
+    {
+      "svgSymbol": "#calendar",
+      "title": "活動",
+      "name": "翁瑋言",
+      "year": "103", 
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "彭世丞",
+      "year": "104", 
+      "department": "管科"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "副教學",
+      "name": "蔡侃廷",
+      "year": "103", 
+      "department": "電物"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "公關",
+      "name": "陳宛汝",
+      "year": "104", 
+      "department": "外文"
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "財務",
+      "name": "蘇怡凡",
+      "year": "103", 
+      "department": "管科"
+    },
+    {
+      "svgSymbol": "#art",
+      "title": "網美",
+      "name": "蘇子瞻",
+      "year": "103", 
+      "department": "管科"
+    },
+    {
+      "svgSymbol": "#tool",
+      "title": "場器",
+      "name": "魯宣",
+      "year": "104", 
+      "department": "材料"
+    }
+  ],
+  "alumni_02": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "盧心慈",
+      "year": "106",
+      "department": "外文"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "何飛凡",
+      "year": "104",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "公關",
+      "name": "陳宛汝",
+      "year": "104",
+      "department": "外文"
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "財務",
+      "name": "潘均南",
+      "year": "105",
+      "department": "人社"
+    },
+    {
+      "svgSymbol": "#question",
+      "title": "LOST",
+      "name": "蔡宗偉",
+      "year": "104",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#question",
+      "title": "LOST",
+      "name": "廖宸廷",
+      "year": "104",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#question",
+      "title": "LOST",
+      "name": "汪敬哲",
+      "year": "105",
+      "department": "電工"
+    },
+    {
+      "svgSymbol": "#question",
+      "title": "LOST",
+      "name": "劉建廷",
+      "year": "105",
+      "department": "資工"
+    }
+  ],
+  "alumni_03": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "洪梓恆",
+      "year": "107",
+      "department": "電工"
+    },
+    {
+      "svgSymbol": "#employee",
+      "title": "副社",
+      "name": "盧心慈",
+      "year": "106",
+      "department": "外文"
+    },
+    {
+      "svgSymbol": "#calendar",
+      "title": "活動",
+      "name": "廖文岑",
+      "year": "107",
+      "department": "機械"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "林柏亨",
+      "year": "107",
+      "department": "機械"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "公關",
+      "name": "楊停佑",
+      "year": "104",
+      "department": "電工"
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "財務",
+      "name": "劉貴雄",
+      "year": "106",
+      "department": "電工"
+    },
+    {
+      "svgSymbol": "#tool",
+      "title": "場務",
+      "name": "陳致",
+      "year": "105",
+      "department": "應數"
+    },
+    {
+      "svgSymbol": "#calendar",
+      "title": "吧檯",
+      "name": "王人奕",
+      "year": "104",
+      "department": "土木"
+    }
+  ],
+  "alumni_04": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "邱震譯",
+      "year": "108",
+      "department": "機械"
+    },
+    {
+      "svgSymbol": "#employee",
+      "title": "副社",
+      "name": "黃亮勛",
+      "year": "108",
+      "department": "土木"
+    },
+    {
+      "svgSymbol": "#calendar",
+      "title": "活動",
+      "name": "林學宏",
+      "year": "108",
+      "department": "機械"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "吳文進",
+      "year": "108",
+      "department": "土木"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "公關",
+      "name": "施宜蓁",
+      "year": "108",
+      "department": "資財"
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "財務",
+      "name": "盧心慈",
+      "year": "106",
+      "department": "外文"
+    },
+    {
+      "svgSymbol": "#art",
+      "title": "美宣",
+      "name": "陳冠甫",
+      "year": "108",
+      "department": "電機"
+    }
+  ],
+  "alumni_05": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "林秩同",
+      "year": "109",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#employee",
+      "title": "副社",
+      "name": "陳薏安",
+      "year": "109",
+      "department": "應數",
+      "department2": "資工"
+    },
+    {
+      "svgSymbol": "#calendar",
+      "title": "活動",
+      "name": "謝宗林",
+      "year": "109",
+      "department": "電物"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "王靖縈",
+      "year": "109",
+      "department": "光電"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "公關",
+      "name": "何芷菱",
+      "year": "109",
+      "department": "資財"
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "總務",
+      "name": "蕭孟炘",
+      "year": "109",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#art",
+      "title": "美宣",
+      "name": "鄭亦翔",
+      "year": "109",
+      "department": "電工"
+    },
+    {
+      "svgSymbol": "#tool",
+      "title": "器材",
+      "name": "林暐軒",
+      "year": "109",
+      "department": "應數"
+    }
+  ],
+  "alumni_06": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "鄭庭宇",
+      "year": "110",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#employee",
+      "title": "副社",
+      "name": "楊德基",
+      "year": "110",
+      "department": "工工",
+      "department2": "電機"
+    },
+    {
+      "svgSymbol": "#calendar",
+      "svgSymbol2": "#lesson",
+      "title": "活動",
+      "title2": "教學",
+      "name": "葉哲和",
+      "year": "110",
+      "department": "應化"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "公關",
+      "name": "陳以昕",
+      "year": "109",
+      "department": "應數"
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "總務",
+      "name": "王淞平",
+      "year": "110",
+      "department": "電物"
+    },
+    {
+      "svgSymbol": "#art",
+      "title": "美宣",
+      "name": "黃甯琪",
+      "year": "107",
+      "bachelor": 0,
+      "department": "資科工博"
+    },
+    {
+      "svgSymbol": "#tool",
+      "title": "器材",
+      "name": "謝宜均",
+      "year": "110",
+      "department": "電工"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "李曜辰",
+      "year": "107",
+      "department": "電控碩",
+      "bachelor": 0,
+      "progress": 50
+    }
+  ],
+  "alumni_07": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "洪愷尹",
+      "year": "111",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#employee",
+      "title": "副社",
+      "name": "張之譯",
+      "year": "111",
+      "department": "應數"
+    },
+    {
+      "svgSymbol": "#calendar",
+      "title": "活動",
+      "name": "魏士閎",
+      "year": "111",
+      "department": "生科",
+      "department2": "資工"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "黃宇裼",
+      "year": "111",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "公關",
+      "name": "陳鎧勳",
+      "year": "111",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "總務",
+      "name": "羅佳筠",
+      "year": "111",
+      "department": "應化"
+    },
+    {
+      "svgSymbol": "#art",
+      "title": "美宣",
+      "name": "陳少甫",
+      "year": "111",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#tool",
+      "title": "器材",
+      "name": "謝承恩",
+      "year": "111",
+      "department": "電機"
+    }
+  ],
+  "alumni_08": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "賴秉庸",
+      "year": "112",
+      "department": "應化"
+    },
+    {
+      "svgSymbol": "#employee",
+      "title": "副社",
+      "name": "施釉薰",
+      "year": "109",
+      "department": "機械",
+      "department2": "資工"
+    },
+    {
+      "svgSymbol": "#calendar",
+      "title": "活動",
+      "name": "廖盈瑄",
+      "year": "109",
+      "department": "機械",
+      "department2": "資工"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "林子昊",
+      "year": "111",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "公關",
+      "name": "張家豪",
+      "year": "112",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "總務",
+      "name": "陳筱霓",
+      "year": "112",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#art",
+      "title": "美宣",
+      "name": "吳立夫",
+      "year": "111",
+      "department": "應化"
+    },
+    {
+      "svgSymbol": "#tool",
+      "title": "器材",
+      "name": "江讀晉",
+      "year": "111",
+      "department": "電機"
+    }
+  ],
+  "alumni_09": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "陳韋齊",
+      "year": "113",
+      "department": "管科",
+      "department2": "電機"
+    },
+    {
+      "svgSymbol": "#employee",
+      "title": "副社",
+      "name": "陳怡蓁",
+      "year": "111",
+      "department": "電物"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "簡右群",
+      "year": "112",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "宣傳",
+      "name": "黃威凱",
+      "year": "113",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "總務",
+      "name": "莊濟謙",
+      "year": "113",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#tool",
+      "title": "器材",
+      "name": "邱俊耀",
+      "year": "111",
+      "department": "電機"
+    }
+  ],
+  "alumni_10": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "劉詠",
+      "year": "114",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#employee",
+      "title": "副社",
+      "name": "劉揚融",
+      "year": "112",
+      "department": "光電"
+    },
+    {
+      "svgSymbol": "#calendar",
+      "title": "活動",
+      "name": "鄭丞毅",
+      "year": "112",
+      "department": "光電"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "張國緯",
+      "year": "114",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "總務",
+      "name": "劉奕伶",
+      "year": "113",
+      "department": "生科"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "宣傳",
+      "name": "黃婉瑜",
+      "year": "113",
+      "department": "生科",
+      "progress": 50
+    }
+  ],
+  "alumni_11": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "蔡芳慈",
+      "year": "115",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#employee",
+      "title": "副社",
+      "name": "葉巧伃",
+      "year": "114",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#calendar",
+      "title": "活動",
+      "name": "王姿惠",
+      "year": "114",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "何淑君",
+      "year": "113",
+      "department": "機械"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "李宗諺",
+      "year": "115",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "宣傳",
+      "name": "甯宇綸",
+      "year": "114",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "總務",
+      "name": "劉芷瑜",
+      "year": "115",
+      "department": "機械"
+    },
+    {
+      "svgSymbol": "#art",
+      "title": "美術",
+      "name": "林柏宇",
+      "year": "114",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#tool",
+      "title": "器材",
+      "name": "顏丞硯",
+      "year": "115",
+      "department": "資工"
+    }
+  ],
+  "alumni_12": [
+    {
+      "svgSymbol": "#boss",
+      "title": "社長",
+      "name": "魏子傑",
+      "year": "114",
+      "department": "電機"
+    },
+    {
+      "svgSymbol": "#employee",
+      "svgSymbol2": "#calendar",
+      "title": "副社",
+      "title2": "活動",
+      "name": "邱瑋茹",
+      "year": "114",
+      "department": "機械"
+    },
+    {
+      "svgSymbol": "#lesson",
+      "title": "教學",
+      "name": "張家維",
+      "year": "114",
+      "department": "資工"
+    },
+    {
+      "svgSymbol": "#bell",
+      "title": "網管",
+      "name": "王昱璟",
+      "year": "112",
+      "bachelor": 0,
+      "department": "LOST"
+    },
+    {
+      "svgSymbol": "#art",
+      "title": "美術",
+      "name": "呂承易",
+      "year": "114",
+      "department": "物理",
+      "university": 0
+    },
+    {
+      "svgSymbol": "#money",
+      "title": "總務",
+      "name": "邱慈",
+      "year": "114",
+      "department": "LOST",
+      "progress": 50
+    }
+  ]
+}

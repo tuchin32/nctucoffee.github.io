@@ -4,7 +4,11 @@
 }
 
 .bg-brown-light {
-    background-color: #f3efec;;
+    background-color: #f3efec;
+}
+
+.bg-blueviolet {
+    background-color: blueviolet;
 }
 
 .text-brown {
